@@ -1,0 +1,2 @@
+# jor
+Desarrollo proyecto django
